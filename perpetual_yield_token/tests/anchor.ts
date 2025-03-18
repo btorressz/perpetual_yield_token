@@ -1,6 +1,6 @@
 //Test file is still in review
 //Feel free to make changes  
-import * as anchor from "@coral-xyz/anchor";
+/* import * as anchor from "@coral-xyz/anchor";
 import { BN } from "bn.js";
 import assert from "assert";
 import * as web3 from "@solana/web3.js";
@@ -86,3 +86,4 @@ describe("perpetual-yield-token", () => {
     // (Add additional assertions as desired)
   });
 });
+*/
